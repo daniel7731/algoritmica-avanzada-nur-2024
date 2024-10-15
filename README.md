@@ -6,3 +6,6 @@ pip install pandas
 pip install matplotlib
 pip install seaborn
 pip install scikit-learn
+conda install matplotlib
+pip install torch
+conda install pytorch::pytorch
