@@ -9,3 +9,5 @@ pip install scikit-learn
 conda install matplotlib
 pip install torch
 conda install pytorch::pytorch
+pip install pillow 
+pip install opencv-python
